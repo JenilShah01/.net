@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z82i9dysqrk=",
+  "success": true,
+  "projectFilePath": "F:\\rough\\UserManagementAPI\\UserManagementAPI\\UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\smit\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\smit\\.nuget\\packages\\scalar.aspnetcore\\2.13.1\\scalar.aspnetcore.2.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
